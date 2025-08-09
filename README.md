@@ -25,3 +25,6 @@ This repository contains R scripts used for the analysis in the study:
 ## How to run
 Place input files in the `data/` directory.
  - Example: `data/counts_matrix.tsv`, `data/sample_metadata.tsv`
+
+## Zenodo
+https://doi.org/10.5281/zenodo.16784754
